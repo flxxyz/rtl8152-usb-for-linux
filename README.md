@@ -22,8 +22,7 @@ tar -jxvf r8152-2.16.3.tar.bz2 && cd r8152-2.16.3
 开始编译安装并复制目录内的规则
 
 ```sh
-make
-make install
+make && make install
 cp 50-usb-realtek-net.rules /usr/lib/udev/rules.d
 ```
 
