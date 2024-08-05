@@ -1,7 +1,13 @@
 # rtl8152-usb-for-linux
 螃蟹网卡 rtl8152/8156/8156(b)
 
-仓库里有个 **r8152-2.16.3.tar.bz2** 可以用，你也可以去官网下载 [https://www.realtek.com/zh-tw/component/zoo/category/network-interface-controllers-10-100-1000m-gigabit-ethernet-usb-3-0-software](https://www.realtek.com/zh-tw/component/zoo/category/network-interface-controllers-10-100-1000m-gigabit-ethernet-usb-3-0-software)，自己视情况调整一些参数
+仓库里有几个可用版本，当然你也可以去 [官网下载](https://www.realtek.com/Download/List?cate_id=585)，自己视情况调整一些参数
+
+## 可用版本
+
+- [r8152-2.16.3.tar.bz2](https://raw.githubusercontent.com/flxxyz/rtl8152-usb-for-linux/master/r8152-2.16.3.tar.bz2)
+- [r8152-2.17.1.tar.bz2](https://raw.githubusercontent.com/flxxyz/rtl8152-usb-for-linux/master/r8152-2.17.1.tar.bz2)
+- [r8152-2.18.1.tar.bz2](https://raw.githubusercontent.com/flxxyz/rtl8152-usb-for-linux/master/r8152-2.18.1.tar.bz2)
 
 ## 安装编译依赖库
 
