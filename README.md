@@ -9,6 +9,7 @@
 - [r8152-2.17.1.tar.bz2](https://raw.githubusercontent.com/flxxyz/rtl8152-usb-for-linux/master/r8152-2.17.1.tar.bz2)
 - [r8152-2.18.1.tar.bz2](https://raw.githubusercontent.com/flxxyz/rtl8152-usb-for-linux/master/r8152-2.18.1.tar.bz2)
 - [r8152-2.19.2.tar.bz2](https://raw.githubusercontent.com/flxxyz/rtl8152-usb-for-linux/master/r8152-2.19.2.tar.bz2)
+- [r8152-2.20.1.tar.bz2](https://raw.githubusercontent.com/flxxyz/rtl8152-usb-for-linux/master/r8152-2.20.1.tar.bz2)
 
 ## 安装编译依赖库
 
