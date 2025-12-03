@@ -3,6 +3,8 @@
 
 仓库里有几个可用版本，当然你也可以去 [官网下载](https://www.realtek.com/Download/List?cate_id=585)，自己视情况调整一些参数
 
+> 镜像地址: `git clone https://git.sao.sh/rtl8152-usb-for-linux.git`
+
 ## 可用版本
 
 - [r8152-2.16.3.tar.bz2](https://raw.githubusercontent.com/flxxyz/rtl8152-usb-for-linux/master/r8152-2.16.3.tar.bz2)
