@@ -10,6 +10,7 @@
 - [r8152-2.18.1.tar.bz2](https://raw.githubusercontent.com/flxxyz/rtl8152-usb-for-linux/master/r8152-2.18.1.tar.bz2)
 - [r8152-2.19.2.tar.bz2](https://raw.githubusercontent.com/flxxyz/rtl8152-usb-for-linux/master/r8152-2.19.2.tar.bz2)
 - [r8152-2.20.1.tar.bz2](https://raw.githubusercontent.com/flxxyz/rtl8152-usb-for-linux/master/r8152-2.20.1.tar.bz2)
+- [r8152-2.21.4.tar.bz2](https://raw.githubusercontent.com/flxxyz/rtl8152-usb-for-linux/master/r8152-2.21.4.tar.bz2)
 
 ## 安装编译依赖库
 
@@ -68,8 +69,6 @@ ethtool -i enxc84d44232258
 ethtool enxc84d44232258
 ```
 可以看到支持的链接模式已经能够支持到 **2500M** 了哦~ 😄
-
-现在手里没有支持2.5G速率的网线，问题不大，过年回家再试试。
 
 ![screenshot-20230116-002951](https://user-images.githubusercontent.com/8678079/212553410-30c39ef1-6adb-4f68-bddc-04d253626d6a.png)
 
